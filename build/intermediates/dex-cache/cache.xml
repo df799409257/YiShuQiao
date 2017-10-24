@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\open_sdk_r5781.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cbac7d081542657d885efd7a529a9267d22ec080">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\open_sdk_r5781_28a8dca196a7aa9f570a9995950278852f1434b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\okhttp-3.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="01b6c10b5120995a7542c1a31b7828fb8593c8ba">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\okhttp-3.9.0_fd440ffe558888bd1b8de2653548d185f2b87131.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\weibosdkcore_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="265f83894203f2bd137185bc3cefaca45b186ca0">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\weibosdkcore_release_060a499d6e0c4c2ae8dea818a9f8432e8fbcc4d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\wechat-sdk-android-with-mta-1.3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="84c5fe208214d321b00efad7cd01cf3d5f51f7b7">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\wechat-sdk-android-with-mta-1.3.4_845c8b69f8117eebe9c14728d3dea5963f59b0d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\okio-1.13.0_3ff02670106cba8054305f523be4ae8d95cb8e5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4_6f22f7de5609ebc8c14a9589773d19b321f5eaf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\jpush-android-3.0.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c90213171bb7b8fd7ea5071a924aa4355589177f">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\jpush-android-3.0.8_262219b8b8d6b169b15c45c7c325080257a74866.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0_ec60cb0c60a8f238a85eb160323a812e147e6549.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\libs\tb_video_recorder.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f88b017406389308455e599936576f0305df41e7">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\tb_video_recorder_131b113aee681ae9dca2e17136c4cfcc98a1b09b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\okgo-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2eaadd8180a26732dfdc8def99cee3096d5e533f">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\okgo-3.0.1_828333c3dfe2f2153dcc0cc6427ba44d282ce9d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\eventbus-3.0.0_0c83431798cbb1b99111dde18a179780381f6fe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\android-support-design.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c32bdafabc6bf7ac9a3bc88b33e5f7286e982be5">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\android-support-design_c1672b69632b5e7fb1d9e8e576eab339f5dfa889.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\volley_f3dacad4a039c38e852d6d65ad68de486db1568e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\bugly_crash_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d26ab01651bb5b5c149274c1176ba322136bbc5c">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\bugly_crash_release_e917c5f56023b1f8e6e8b5c495ae16deee902c31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\libs\tb_video_recorder_sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ac7656b1ba5a432efb4e66a38856312873a8a50">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\tb_video_recorder_sdk_deea9ff0e1d14b4cb99c19445ff8cda2dda50954.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\okhttp-2.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\okhttp-2.7.5_512e105188a1a7a9d973c0aa3a97e1b3a8f98e28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\qiniu-android-sdk-7.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ce7e5e12767b15241de044d86a2c7d064e24a8da">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\qiniu-android-sdk-7.1.2_25db62598a21211ca471f22f2b7b99774473c419.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\fastjson-1.1.40.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cf8b196dea0f5efa96adc81c047adf7b3d4633ed">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\fastjson-1.1.40_e35ee0e5f88d2908a26b68cefd7aaa7c144bc5d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\butterknife-7.0.1_4f1a0becec156a3420425aad214ae4442a619e72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0b44426b54886eae6296cd02fd10833426a9f762">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\classes_a7c43740955aacf93427a5ad39f544f1307df381.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\jcore-android-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d68147a2495acffea57266427a8b76a1e99baea8">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\jcore-android-1.1.6_9a4a7b5a7cfdb81549b0683f84db7060de53f837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_9978246f22ce3b0b31730818cfaacb81d6dbe79a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\afinal_0.5.1_bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ae398c74701392473b9cb488c76a92576d6f548c">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\afinal_0.5.1_bin_1fb02b1229fbf889bfb9c8fe2218ca4b535a461b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\picasso-2.5.2_27a3b9a4a12fec84d3f7229406907871f9f93149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\libs\happy-dns-0.2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d94b7987386a3aabbb5aa0be21589f72931f0489">
+        <dex dex="D:\AndroidStudio\StudioWorkSpace\YiShuQiao\yiShuQiao\build\intermediates\pre-dexed\debug\happy-dns-0.2.7_908d3940f80e79f9b60f3b50c5235cab3e13e746.jar" />
+    </item>
+
+</items>

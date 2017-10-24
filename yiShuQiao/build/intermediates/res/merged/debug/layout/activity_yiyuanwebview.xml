@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FB4748"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="#FB4748" >
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:onClick="onFinish" >
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="18dp"
+                    android:layout_height="16dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/back" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="40dp"
+                android:layout_toRightOf="@id/relativeLayout"
+                android:ellipsize="end"
+                android:gravity="center_horizontal"
+                android:lines="1"
+                android:text="艺术桥"
+                android:textColor="#ffffff"
+                android:textSize="17dp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="invisible" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <com.yishuqiao.view.refreshlayout.BGARefreshLayout
+                        android:id="@+id/swipe_container"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" >
+
+                        <ScrollView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:fillViewport="true"
+                            android:focusable="true"
+                            android:focusableInTouchMode="true" >
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:orientation="vertical" >
+
+                                <WebView
+                                    android:id="@+id/wb"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:textIsSelectable="true" />
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="35dp"
+                                    android:layout_marginLeft="@dimen/edge_distance"
+                                    android:layout_marginRight="@dimen/edge_distance"
+                                    android:orientation="horizontal" >
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="35dp"
+                                        android:layout_marginRight="5dp"
+                                        android:gravity="center_vertical"
+                                        android:text="评论"
+                                        android:textColor="@color/colorPrimary"
+                                        android:textSize="10sp" />
+
+                                    <View
+                                        android:layout_width="match_parent"
+                                        android:layout_height="1dp"
+                                        android:layout_gravity="center_vertical"
+                                        android:background="@color/divider_color" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="@dimen/edge_distance"
+                                    android:layout_marginRight="@dimen/edge_distance"
+                                    android:orientation="vertical" >
+
+                                    <com.yishuqiao.view.ListViewForScrollView
+                                        android:id="@+id/gridview"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:cacheColorHint="#00000000"
+                                        android:divider="#00000000"
+                                        android:dividerHeight="0dp"
+                                        android:listSelector="#00000000"
+                                        android:scrollbars="none" >
+                                    </com.yishuqiao.view.ListViewForScrollView>
+                                </LinearLayout>
+                            </LinearLayout>
+                        </ScrollView>
+                    </com.yishuqiao.view.refreshlayout.BGARefreshLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/bottomLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:background="@color/default_layout_color"
+                    android:orientation="vertical" >
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/divider_color" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="49dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/sendComment"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginBottom="8dp"
+                            android:layout_marginLeft="20dp"
+                            android:layout_marginRight="20dp"
+                            android:layout_marginTop="8dp"
+                            android:layout_weight="1.0"
+                            android:background="@drawable/send_comment_selector"
+                            android:gravity="center_vertical"
+                            android:paddingLeft="8dp"
+                            android:text="说点什么吧......"
+                            android:textColor="@color/text_color2" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FB4748"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical" >
+
+        <include
+            android:id="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            layout="@layout/titlelayout" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:orientation="vertical" >
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@color/default_layout_color" >
+
+                <RadioGroup
+                    android:id="@+id/rg"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:orientation="horizontal" >
+
+                    <RadioButton
+                        android:id="@+id/discover"
+                        android:layout_width="70dp"
+                        android:layout_height="30dp"
+                        android:background="@drawable/custom_discovertab_bg"
+                        android:button="@null"
+                        android:checked="true"
+                        android:gravity="center"
+                        android:padding="0dip"
+                        android:text="发现"
+                        android:textColor="@drawable/tab_text_selector"
+                        android:textSize="16dip" />
+
+                    <RadioButton
+                        android:id="@+id/involved"
+                        android:layout_width="70dp"
+                        android:layout_height="30dp"
+                        android:background="@drawable/custom_discovertab_bg"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:padding="0dip"
+                        android:text="资讯"
+                        android:textColor="@drawable/tab_text_selector"
+                        android:textSize="16dip" />
+
+                    <RadioButton
+                        android:id="@+id/message"
+                        android:layout_width="70dp"
+                        android:layout_height="30dp"
+                        android:layout_weight="1.0"
+                        android:background="@drawable/custom_discovertab_bg"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:padding="0dip"
+                        android:text="视频"
+                        android:textColor="@drawable/tab_text_selector"
+                        android:textSize="16dip" />
+
+                    <RadioButton
+                        android:id="@+id/yiyuan"
+                        android:layout_width="70dp"
+                        android:layout_height="30dp"
+                        android:layout_weight="1.0"
+                        android:background="@drawable/custom_moretab_bg"
+                        android:button="@null"
+                        android:gravity="center"
+                        android:padding="0dip"
+                        android:text="艺苑"
+                        android:textColor="@drawable/tab_text_selector"
+                        android:textSize="16dip" />
+                </RadioGroup>
+            </FrameLayout>
+        </LinearLayout>
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+</LinearLayout>

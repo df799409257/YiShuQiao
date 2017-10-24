@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/sil_item_swipe_root"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/white_layout_selector"
+        android:orientation="horizontal" >
+
+        <com.yishuqiao.view.YuanJiaoImageView
+            android:id="@+id/picture"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/edge_distance"
+            android:background="@drawable/default_user_icon"
+            android:scaleType="centerCrop" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:layout_marginBottom="@dimen/edge_distance"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="@dimen/edge_distance"
+            android:layout_marginTop="@dimen/edge_distance" >
+
+            <TextView
+                android:id="@+id/searchTittle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:includeFontPadding="false"
+                android:lineSpacingExtra="3dp"
+                android:maxLines="2"
+                android:text="searchTittle"
+                android:textColor="@color/text_color1"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:ellipsize="end"
+                android:lines="1"
+                android:text="date"
+                android:textColor="@color/text_color2"
+                android:textSize="13sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="@color/default_layout_color" />
+
+</LinearLayout>

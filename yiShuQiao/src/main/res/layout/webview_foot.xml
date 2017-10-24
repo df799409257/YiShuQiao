@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="@dimen/edge_distance"
+        android:layout_marginRight="@dimen/edge_distance"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_marginRight="5dp"
+            android:gravity="center_vertical"
+            android:text="评论"
+            android:textColor="@color/colorPrimary"
+            android:textSize="10sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_gravity="center_vertical"
+            android:background="@color/divider_color" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="@dimen/edge_distance"
+        android:layout_marginRight="@dimen/edge_distance"
+        android:orientation="vertical" >
+
+        <com.yishuqiao.view.MyGridView
+            android:id="@+id/gridview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:cacheColorHint="#00000000"
+            android:listSelector="#00000000"
+            android:numColumns="1"
+            android:scrollbars="none" >
+        </com.yishuqiao.view.MyGridView>
+    </LinearLayout>
+
+</LinearLayout>

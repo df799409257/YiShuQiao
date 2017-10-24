@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/takePhotoBtn"
+        android:layout_width="match_parent"
+        android:layout_height="57.5dp"
+        android:background="@drawable/white_layout_selector"
+        android:gravity="center"
+        android:text="拍照"
+        android:textColor="@color/text_color1"
+        android:textSize="16dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@color/divider_color" />
+
+    <TextView
+        android:id="@+id/lookPhotoBtn"
+        android:layout_width="match_parent"
+        android:layout_height="57.5dp"
+        android:background="@drawable/white_layout_selector"
+        android:gravity="center"
+        android:text="从手机相册选择"
+        android:textColor="@color/text_color1"
+        android:textSize="16dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@color/divider_color" />
+
+    <TextView
+        android:id="@+id/cancel"
+        android:layout_width="match_parent"
+        android:layout_height="57.5dp"
+        android:background="@drawable/white_layout_selector"
+        android:gravity="center"
+        android:text="取消"
+        android:textColor="@color/text_color1"
+        android:textSize="16dp" />
+
+</LinearLayout>

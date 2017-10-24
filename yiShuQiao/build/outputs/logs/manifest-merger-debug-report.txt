@@ -1,0 +1,1052 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:2:1-589:12
+	package
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml
+		INJECTED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:6:5-32
+		INJECTED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml
+		INJECTED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml
+		INJECTED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:9:5-67
+MERGED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:10:5-79
+MERGED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:12:5-75
+MERGED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:13:5-81
+MERGED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_LOGS
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:21:5-80
+MERGED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:21:22-77
+uses-permission#com.sxy.main.activity.permission.JPUSH_MESSAGE
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:23:5-86
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:23:22-83
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:24:5-88
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:24:22-85
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.CLEAR_APP_CACHE
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:26:5-74
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:26:22-71
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:28:5-69
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:28:22-66
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:29:5-71
+MERGED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:29:22-68
+uses-permission#android.permission.CAMERA
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:30:5-65
+MERGED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:30:22-62
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:33:5-84
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:33:22-81
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:34:5-68
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:34:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:35:5-76
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:35:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:36:5-68
+MERGED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:36:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:37:5-80
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:37:22-77
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:39:5-81
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:39:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:40:5-71
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:40:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:41:5-74
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:41:22-71
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:42:5-74
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:42:22-71
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:43:5-80
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:43:22-77
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:44:5-85
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:44:22-82
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:45:5-75
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:45:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:46:5-73
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:46:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:51:5-66
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:51:22-63
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:55:5-78
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:55:22-75
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:57:5-79
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:57:22-76
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:59:5-81
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:59:22-78
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:61:5-80
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:61:22-77
+permission#com.yishuqiao.permission.JPUSH_MESSAGE
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:64:5-66:47
+	android:protectionLevel
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:66:9-44
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:65:9-62
+uses-permission#com.yishuqiao.permission.JPUSH_MESSAGE
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:68:5-78
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:68:22-75
+application
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:110:5-587:19
+MERGED from [org.xutils:xutils:3.5.0] C:\Users\Administrator\.android\build-cache\bf498581e928a022d4f40864cadcc3cc73b3fac8\output\AndroidManifest.xml:12:5-20
+MERGED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:26:5-100:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Administrator\.android\build-cache\4e76e44e246495abee9bb56c69290393e6c37e98\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\Administrator\.android\build-cache\c0aef95923c1ffa6699b02f3df27224ad6289892\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Administrator\.android\build-cache\cafed70e95b7ef7d8ccf11e139d93b8a56ec9ccd\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Administrator\.android\build-cache\269729526d73c947d56f13957be92062cfaa3639\output\AndroidManifest.xml:22:5-20
+MERGED from [com.linsea:universalvideoview:1.1.0] C:\Users\Administrator\.android\build-cache\bd2009bf3b03d8f9df23576b4174bc1bb4d49d7f\output\AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:114:9-41
+	android:supportsRtl
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:116:9-35
+	android:allowBackup
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:112:9-35
+	android:icon
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:113:9-45
+	android:largeHeap
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:115:9-33
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:117:9-40
+	tools:replace
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:118:9-37
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:111:9-42
+		REJECTED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:27:9-58
+activity#com.yishuqiao.activity.SplashActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:119:9-123:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:122:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:121:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:123:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:120:13-65
+activity#com.yishuqiao.activity.HomeActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:124:9-129:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:128:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:126:13-45
+	android:launchMode
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:127:13-44
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:129:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:125:13-63
+activity#com.sina.weibo.sdk.component.WeiboSdkBrowser
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:131:9-136:58
+	android:exported
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:134:13-37
+	android:windowSoftInputMode
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:136:13-55
+	android:configChanges
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:133:13-63
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:135:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:132:13-72
+activity#com.yishuqiao.activity.ImageBucketChooseActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:137:9-141:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:140:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:139:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:141:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:138:13-76
+activity#com.yishuqiao.activity.video.lib.JCFullScreenActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:142:9-146:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:145:13-50
+	android:configChanges
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:144:13-63
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:146:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:143:13-81
+activity#com.yishuqiao.activity.ImageDetailsActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:147:9-151:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:150:13-47
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:149:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:151:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:148:13-71
+activity#com.yishuqiao.activity.ImageChooseActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:152:9-156:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:155:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:154:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:156:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:153:13-70
+activity#com.yishuqiao.activity.PublishTextPopActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:157:9-162:72
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:160:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:159:13-45
+	android:windowSoftInputMode
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:162:13-69
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:161:13-67
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:158:13-73
+activity#com.yishuqiao.activity.PublishVideoPopActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:163:9-168:72
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:166:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:165:13-45
+	android:windowSoftInputMode
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:168:13-69
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:167:13-67
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:164:13-74
+activity#com.yishuqiao.activity.PublishTextActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:169:9-173:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:172:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:171:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:173:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:170:13-70
+activity#com.yishuqiao.activity.WebViewActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:174:9-178:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:177:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:176:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:178:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:175:13-66
+activity#com.yishuqiao.activity.CommentWebViewActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:180:9-184:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:183:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:182:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:184:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:181:13-73
+activity#com.yishuqiao.activity.CommentDetailActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:186:9-191:72
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:189:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:188:13-45
+	android:windowSoftInputMode
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:191:13-69
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:190:13-67
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:187:13-72
+activity#com.yishuqiao.activity.PreviewVideoActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:192:9-196:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:195:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:194:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:196:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:193:13-71
+activity#com.yishuqiao.activity.ImageZoomActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:197:9-201:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:200:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:199:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:201:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:198:13-68
+activity#com.yishuqiao.activity.PublishVideoActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:202:9-206:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:205:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:204:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:206:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:203:13-71
+activity#com.yishuqiao.activity.WelComeActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:207:9-217:20
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:210:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:209:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:211:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:208:13-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:212:13-216:29
+action#android.intent.action.MAIN
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:213:17-69
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:213:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:215:17-77
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:215:27-74
+activity#com.yishuqiao.activity.adsplash.AdSplashActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:219:9-223:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:222:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:221:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:223:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:220:13-76
+activity#com.yishuqiao.activity.mine.SystemSettingActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:225:9-229:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:228:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:227:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:229:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:226:13-77
+activity#com.yishuqiao.activity.mine.MessageCenterActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:231:9-235:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:234:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:233:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:235:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:232:13-77
+activity#com.yishuqiao.activity.mine.MyIntegralActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:237:9-241:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:240:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:239:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:241:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:238:13-74
+activity#com.yishuqiao.activity.mine.MyFansActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:243:9-247:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:246:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:245:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:247:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:244:13-70
+activity#com.yishuqiao.activity.mine.MyAttentionActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:249:9-253:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:252:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:251:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:253:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:250:13-75
+activity#com.yishuqiao.activity.mine.MyPublishedActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:255:9-259:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:258:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:257:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:259:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:256:13-75
+activity#com.yishuqiao.activity.mine.FavoriteActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:261:9-265:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:264:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:263:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:265:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:262:13-72
+activity#com.yishuqiao.activity.mine.MyFollowWorksActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:267:9-271:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:270:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:269:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:271:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:268:13-77
+activity#com.yishuqiao.activity.mine.MyFollowGalleryActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:273:9-277:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:276:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:275:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:277:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:274:13-79
+activity#com.yishuqiao.activity.mine.FeedbackActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:279:9-283:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:282:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:281:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:283:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:280:13-72
+activity#com.yishuqiao.activity.mine.BusinessActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:285:9-289:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:288:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:287:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:289:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:286:13-72
+activity#com.yishuqiao.activity.mine.AboutUsActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:291:9-295:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:294:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:293:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:295:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:292:13-71
+activity#com.yishuqiao.activity.mine.LoginActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:297:9-301:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:300:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:299:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:301:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:298:13-69
+activity#com.yishuqiao.activity.mine.PersonalInfoActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:303:9-307:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:306:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:305:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:307:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:304:13-76
+activity#com.yishuqiao.activity.mine.ModifyAvatarPopActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:309:9-314:72
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:312:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:311:13-45
+	android:windowSoftInputMode
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:314:13-69
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:313:13-67
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:310:13-79
+activity#com.yishuqiao.activity.mine.ModifyGenderPopActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:316:9-321:72
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:319:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:318:13-45
+	android:windowSoftInputMode
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:321:13-69
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:320:13-67
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:317:13-79
+activity#com.yishuqiao.activity.mine.ModifyPhoneActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:323:9-327:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:326:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:325:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:327:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:324:13-75
+activity#com.yishuqiao.activity.mine.SignInActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:329:9-333:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:332:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:331:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:333:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:330:13-70
+activity#com.yishuqiao.activity.SearchActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:335:9-340:55
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:338:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:337:13-45
+	android:windowSoftInputMode
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:340:13-52
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:339:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:336:13-65
+activity#com.yishuqiao.activity.mine.ResetpasswordActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:342:9-346:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:345:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:344:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:346:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:343:13-77
+activity#com.yishuqiao.activity.yiyuan.WriterDetailsActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:348:9-352:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:351:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:350:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:352:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:349:13-79
+activity#com.yishuqiao.activity.yiyuan.WorkDetailsActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:354:9-358:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:357:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:356:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:358:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:355:13-77
+activity#com.yishuqiao.activity.ViewPagerActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:360:9-364:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:363:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:362:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:364:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:361:13-68
+activity#com.yishuqiao.activity.discover.DiscoverDetailsActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:366:9-372:47
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:370:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:369:13-45
+	android:windowActionBar
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:372:13-44
+	android:configChanges
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:368:13-74
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:371:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:367:13-83
+activity#com.yishuqiao.activity.UpDateActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:374:9-378:70
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:377:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:376:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:378:13-67
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:375:13-65
+activity#com.yishuqiao.activity.ShareActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:380:9-391:20
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:383:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:382:13-45
+	android:windowSoftInputMode
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:385:13-69
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:384:13-67
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:381:13-64
+intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:386:13-390:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:387:17-92
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:387:25-89
+category#android.intent.category.DEFAULT
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:389:17-76
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:389:27-73
+activity#com.yishuqiao.activity.discover.SendCommentActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:393:9-399:72
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:397:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:396:13-45
+	android:windowSoftInputMode
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:399:13-69
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:398:13-67
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:395:13-79
+activity#com.yishuqiao.activity.discover.VideoListActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:401:9-405:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:404:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:403:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:405:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:402:13-77
+activity#com.yishuqiao.activity.discover.WriterPersonalCenterActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:407:9-411:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:410:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:409:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:411:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:408:13-88
+activity#com.yishuqiao.video.YWRecordVideoActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:412:9-416:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:415:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:414:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:416:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:413:13-56
+activity#com.yishuqiao.video.EditVideoActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:418:9-422:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:421:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:420:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:422:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:419:13-52
+activity#com.yishuqiao.video.WidthMatchVideo
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:424:9-428:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:427:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:426:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:428:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:425:13-50
+activity#com.yishuqiao.activity.video.VideoPlayActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:430:9-438:20
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:434:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:433:13-45
+	android:windowActionBar
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:436:13-44
+	android:configChanges
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:432:13-74
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:435:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:431:13-74
+activity#com.yishuqiao.activity.YiyuanWebViewActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:440:9-444:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:443:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:442:13-45
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:444:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:441:13-72
+activity#com.yishuqiao.wxapi.WXEntryActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:448:9-453:50
+	android:screenOrientation
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:452:13-49
+	android:label
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:451:13-45
+	android:exported
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:450:13-36
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:453:13-47
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:449:13-63
+service#cn.jpush.android.service.PushService
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:457:9-467:19
+	android:enabled
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:459:13-35
+	android:exported
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:460:13-37
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:458:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:461:13-466:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:462:17-75
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:462:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:463:17-73
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:463:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:464:17-78
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:464:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:465:17-76
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:465:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:471:9-480:19
+	android:enabled
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:473:13-35
+	android:exported
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:474:13-36
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:472:13-66
+intent-filter#cn.jpush.android.intent.DaemonService+com.yishuqiao
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:475:13-479:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:476:17-80
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:476:25-77
+category#com.yishuqiao
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:478:17-58
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:478:27-55
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:483:9-502:20
+	android:enabled
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:485:13-35
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:484:13-65
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.yishuqiao
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:486:13-490:29
+	android:priority
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:486:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:487:17-94
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:487:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:491:13-494:29
+action#android.intent.action.USER_PRESENT
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:492:17-77
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:492:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:493:17-79
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:493:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:496:13-501:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:497:17-78
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:497:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:498:17-80
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:498:25-77
+data
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:500:17-50
+	android:scheme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:500:23-47
+activity#cn.jpush.android.ui.PushActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:505:9-516:20
+	android:exported
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:508:13-37
+	android:configChanges
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:507:13-63
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:509:13-60
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:506:13-60
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.yishuqiao
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:510:13-515:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:511:17-75
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:511:25-72
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:518:9-527:20
+	android:exported
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:521:13-37
+	android:configChanges
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:520:13-63
+	android:theme
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:522:13-49
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:519:13-62
+intent-filter#android.intent.category.DEFAULT+com.yishuqiao
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:523:13-526:29
+service#cn.jpush.android.service.DownloadService
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:530:9-533:48
+	android:enabled
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:532:13-35
+	android:exported
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:533:13-37
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:531:13-68
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:536:9-75
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:536:19-72
+receiver#com.yishuqiao.jpush.MyJPushMessageReceiver
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:541:9-549:20
+	android:enabled
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:543:13-35
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:542:13-70
+intent-filter#cn.jpush.android.intent.RECEIVE_MESSAGE+com.yishuqiao
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:544:13-548:29
+action#cn.jpush.android.intent.RECEIVE_MESSAGE
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:545:17-82
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:545:25-79
+receiver#com.yishuqiao.jpush.JPushReceiver
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:552:9-570:20
+	android:enabled
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:554:13-35
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:553:13-61
+intent-filter#cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+com.yishuqiao
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:555:13-569:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:558:17-79
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:558:25-76
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:560:17-83
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:560:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:562:17-88
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:562:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:564:17-86
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:564:25-83
+action#cn.jpush.android.intent.CONNECTION
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:566:17-77
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:566:25-74
+meta-data#JPUSH_CHANNEL
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:578:9-580:49
+	android:value
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:580:13-46
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:579:13-41
+meta-data#JPUSH_APPKEY
+ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:582:9-584:56
+	android:value
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:584:13-53
+	android:name
+		ADDED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml:583:13-40
+uses-sdk
+INJECTED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:recyclerview-v7:22.2.1] C:\Users\Administrator\.android\build-cache\56ddef4af261b9f7f7bab46c1992cdddc0fdd180\output\AndroidManifest.xml:20:5-43
+MERGED from [org.xutils:xutils:3.5.0] C:\Users\Administrator\.android\build-cache\bf498581e928a022d4f40864cadcc3cc73b3fac8\output\AndroidManifest.xml:8:5-10:41
+MERGED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.dou361.ijkplayer:jjdxm-ijkplayer:1.0.6] C:\Users\Administrator\.android\build-cache\567d1e1fab881eef801e3e93e2ac7eea6f4928e3\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.dou361.ijkplayer-armv7a:jjdxm-ijkplayer-armv7a:1.0.0] C:\Users\Administrator\.android\build-cache\4c5414dbd56caaea06dcdd3d9b14b2296aa8d9fa\output\AndroidManifest.xml:8:5-10:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.6.0] C:\Users\Administrator\.android\build-cache\5395a2f6fd3365894d0a66b31f16f680a96d3cfa\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Administrator\.android\build-cache\4e76e44e246495abee9bb56c69290393e6c37e98\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\Administrator\.android\build-cache\c0aef95923c1ffa6699b02f3df27224ad6289892\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Administrator\.android\build-cache\cafed70e95b7ef7d8ccf11e139d93b8a56ec9ccd\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Administrator\.android\build-cache\269729526d73c947d56f13957be92062cfaa3639\output\AndroidManifest.xml:20:5-43
+MERGED from [com.linsea:universalvideoview:1.1.0] C:\Users\Administrator\.android\build-cache\bd2009bf3b03d8f9df23576b4174bc1bb4d49d7f\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Administrator\.android\build-cache\4e76e44e246495abee9bb56c69290393e6c37e98\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml
+		INJECTED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml
+		INJECTED from D:\MyRepository\YiShuQiao\yiShuQiao\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:12:19-67
+uses-feature#android.hardware.camera.flash
+ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:13:19-63
+uses-permission#android.permission.RECORD_VIDEO
+ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:18:22-68
+uses-permission#android.permission.FLASHLIGHT
+ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:20:5-69
+	android:name
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:20:22-66
+activity#com.taobao.TaoRecordVideoActivity
+ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:29:9-33:63
+	android:screenOrientation
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:32:13-49
+	android:configChanges
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:31:13-63
+	android:theme
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:33:13-60
+	android:name
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:30:13-61
+activity#com.taobao.TaoPlayRecordVideoActivity
+ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:34:9-39:76
+	android:screenOrientation
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:37:13-49
+	android:windowSoftInputMode
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:39:13-73
+	android:configChanges
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:36:13-63
+	android:theme
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:38:13-60
+	android:name
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:35:13-65
+activity#com.taobao.URLDispatchActivity
+ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:40:9-42:63
+	android:theme
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:42:13-60
+	android:name
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:41:13-58
+activity#com.taobao.TaoVideoFilterActivity
+ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:43:9-45:63
+	android:theme
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:45:13-60
+	android:name
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:44:13-61
+activity#com.im.IMRecordVideoActivity
+ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:46:9-76:20
+	android:screenOrientation
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:49:13-49
+	android:configChanges
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:48:13-63
+	android:theme
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:50:13-60
+	android:name
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:47:13-56
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:51:13-75:29
+action#android.intent.action.VIEW
+ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:52:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:55:17-78
+	android:name
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:55:27-75
+activity#com.im.IMPlayRecordVideoActivity
+ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:77:9-99:20
+	android:screenOrientation
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:80:13-49
+	android:windowSoftInputMode
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:82:13-73
+	android:configChanges
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:79:13-63
+	android:theme
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:81:13-60
+	android:name
+		ADDED from [YiShuQiao:YunWangVideoSDK:unspecified] D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\intermediates\bundles\default\AndroidManifest.xml:78:13-60

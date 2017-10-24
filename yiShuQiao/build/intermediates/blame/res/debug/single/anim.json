@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\fade_ins.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\anim\\fade_ins.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\taorecorder_scale_reverse.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\anim\\taorecorder_scale_reverse.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\pull_refresh.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\anim\\pull_refresh.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\taorecorder_push_right_in.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\anim\\taorecorder_push_right_in.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\taorecorder_mintime_notice.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\anim\\taorecorder_mintime_notice.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\taorecorder_alpha_hide.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\anim\\taorecorder_alpha_hide.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_sv_recorder_mintime_notice.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\anim\\aliwx_sv_recorder_mintime_notice.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\pull_refreshing.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\anim\\pull_refreshing.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\taorecorder_push_left_in.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\anim\\taorecorder_push_left_in.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\anim_enter_from_bottom.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\anim\\anim_enter_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\taorecorder_push_left_out.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\anim\\taorecorder_push_left_out.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\round_spinner_fade.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\anim\\round_spinner_fade.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\record_focus.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\anim\\record_focus.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\bga_refresh_loding.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\anim\\bga_refresh_loding.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\taorecorder_arrow_notice.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\anim\\taorecorder_arrow_notice.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in_2.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\anim\\push_bottom_in_2.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\anim_exit_from_bottom.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\anim\\anim_exit_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\taorecorder_push_right_out.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\anim\\taorecorder_push_right_out.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\taorecorder_alpha_reverse.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\anim\\taorecorder_alpha_reverse.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\anim\\push_bottom_in.xml"
+    }
+]

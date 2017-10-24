@@ -1,0 +1,894 @@
+[
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_resume.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_resume.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_pager.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_view_pager.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_video.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_video.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_editvideo.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_editvideo.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\taorecorder_uik_circular_progress.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\layout\\taorecorder_uik_circular_progress.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feedback.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myattention.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_myattention.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\mydialog_view.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\mydialog_view.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\titlebartext.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\titlebartext.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_discoverdetails_listview.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_discoverdetails_listview.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_publicvideo.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_publicvideo.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\item_bucket_list.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\item_bucket_list.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\send_comment_layout.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\send_comment_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signin.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_fragmentfour.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_fragmentfour.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_sv_select_dialog_multichoice.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\layout\\aliwx_sv_select_dialog_multichoice.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_full.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_full.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_work.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_work.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\vp_4.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\vp_4.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_sv_recorder_timeline.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\layout\\aliwx_sv_recorder_timeline.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\item_label_auto_play_viewpager.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\item_label_auto_play_viewpager.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_discoverdetails.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_discoverdetails.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\act_image_choose.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\act_image_choose.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\load_videoview.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\load_videoview.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\act_image_bucket_choose.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\act_image_bucket_choose.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modify.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_modify.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\view_player.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\view_player.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_sv_recorder_activity_recorder.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\layout\\aliwx_sv_recorder_activity_recorder.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\vp_2.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\vp_2.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\simple_player_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\567d1e1fab881eef801e3e93e2ac7eea6f4928e3\\output\\res\\layout\\simple_player_list_item.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_item.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\gallery_item.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\loading_view.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\loading_view.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\empty_view.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\empty_view.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_search_layout.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\popwindow_search_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\media_controllerfull.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\media_controllerfull.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\include_tilte_record.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\include_tilte_record.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\include_viewpager.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\include_viewpager.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_commentwebview.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_commentwebview.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\view_normal_refresh_footer.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\view_normal_refresh_footer.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_involvedfragment.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_involvedfragment.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_fragmenttwo_one.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_fragmenttwo_one.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_commentfragment_list.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_commentfragment_list.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_videoplay.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_videoplay.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_video.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_video.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\act_zoom.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\act_zoom.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\view_refresh_header_meituan.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\view_refresh_header_meituan.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\view_theme_item.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\view_theme_item.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\super_video_view.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\super_video_view.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_first.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_activity_list.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_activity_list.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_sv_recorder_activity_playvideo.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\layout\\aliwx_sv_recorder_activity_playvideo.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_writercenter_fragment_item_layout.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_writercenter_fragment_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\toast_layout.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\toast_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_myattention.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_myattention.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\item_image_list.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\item_image_list.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\uvv_on_loading_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bd2009bf3b03d8f9df23576b4174bc1bb4d49d7f\\output\\res\\layout\\uvv_on_loading_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mycommunication.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_mycommunication.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_image.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_image.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\discoverdetails_emetyview.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\discoverdetails_emetyview.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\vp_1.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\vp_1.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_videoplay.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_videoplay.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_systemmessage.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_systemmessage.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\publish_text_popwindow.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\publish_text_popwindow.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fast_login.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_fast_login.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_adsplash.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_adsplash.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_videolsit.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_videolsit.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myintegral.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_myintegral.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_my_follow_gallery_item_layout.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_my_follow_gallery_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_media_recorder.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_media_recorder.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myfollowwork.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_myfollowwork.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\webview_foot.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\webview_foot.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_information.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_information.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_commentdetails.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_commentdetails.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_integral_listview.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_integral_listview.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\modify_phone_layout.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\modify_phone_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\view_second_first.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\view_second_first.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_videolist.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_videolist.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\super_video_media_controller.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\super_video_media_controller.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\publish_video_popwindow.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\publish_video_popwindow.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\item_popupwindow.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\item_popupwindow.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_publishtext.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_publishtext.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_favorite.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_favorite.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\search_list_empty.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\search_list_empty.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\custom_popup_window.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\custom_popup_window.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\view_second_second.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\view_second_second.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_activity.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_activity.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hotvpsimple_head.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_hotvpsimple_head.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_four.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_four.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_works_fragment_item_layout.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_works_fragment_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_commentdetails.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_commentdetails.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_comment_details.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_comment_details.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yiyuanwebview.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_yiyuanwebview.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_favcorte.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_favcorte.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\taorecorcer_activity_filter.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\layout\\taorecorcer_activity_filter.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_sv_alert_dialog.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\layout\\aliwx_sv_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_share.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_share.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\simple_player_controlbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\567d1e1fab881eef801e3e93e2ac7eea6f4928e3\\output\\res\\layout\\simple_player_controlbar.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_media_preview.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_media_preview.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_business.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_business.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_involved.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_involved.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_comment.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_comment.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personalinfo.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_personalinfo.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_main.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\drawer_main.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_fragmenttwo_two.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_fragmenttwo_two.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_work.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_work.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myfans.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_myfans.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\taorecorder_view_radio_item.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\layout\\taorecorder_view_radio_item.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\taorecorder_activity_taoplayvideo.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\layout\\taorecorder_activity_taoplayvideo.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_my_follow_works_item_layout.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_my_follow_works_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imagedetails.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_imagedetails.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\center_music_more_window.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\center_music_more_window.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\view_slingmenu.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\view_slingmenu.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\titlelayout.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\titlelayout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_import_video.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_import_video.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\custom_news_tab.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\custom_news_tab.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\vp_indicator.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\vp_indicator.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hotvpsimple.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_hotvpsimple.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\item_publish.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\item_publish.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_comment_list.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_comment_list.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\modify_gender_popwindow.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\modify_gender_popwindow.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\taorecorder_timeline.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\layout\\taorecorder_timeline.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mylookforworks.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_mylookforworks.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\view_sendmessage.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\view_sendmessage.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\modify_nick_dialog_layout.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\modify_nick_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\simple_player_view_player.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\567d1e1fab881eef801e3e93e2ac7eea6f4928e3\\output\\res\\layout\\simple_player_view_player.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_header_main.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\drawer_header_main.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_album.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_album.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_workdetails.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_workdetails.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\view_layout_slideshow.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\view_layout_slideshow.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\net_error_view.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\net_error_view.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_communication_fragment_item_layout.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_communication_fragment_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_myfans.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_myfans.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_yiyuan.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_yiyuan.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_sv_select_dialog_item.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\layout\\aliwx_sv_select_dialog_item.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_search.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_search.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\view_video.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\view_video.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tow.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_tow.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\taorecorder_activity_recorder.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\layout\\taorecorder_activity_recorder.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\uvv_on_error_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bd2009bf3b03d8f9df23576b4174bc1bb4d49d7f\\output\\res\\layout\\uvv_on_error_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\view_first.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\view_first.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mypublished.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_mypublished.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_sv_select_dialog_singlechoice.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\layout\\aliwx_sv_select_dialog_singlechoice.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_sv_record_alert_dialog.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\layout\\aliwx_sv_record_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\foot_view.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\foot_view.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_writercenter.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_writercenter.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\custom_progress_dialog_layout.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\custom_progress_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_fragmentfirst.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_fragmentfirst.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\video_control_view.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\video_control_view.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_player.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_video_player.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_messagecenter.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_messagecenter.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_widthmatchvideo.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_widthmatchvideo.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\smarttablayout_indicator.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\smarttablayout_indicator.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_album.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_album.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\view_imagedetails.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\view_imagedetails.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_sv_select_dialog.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\layout\\aliwx_sv_select_dialog.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\simple_player_touch_gestures.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\567d1e1fab881eef801e3e93e2ac7eea6f4928e3\\output\\res\\layout\\simple_player_touch_gestures.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\taorecorder_dialog_layout.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\layout\\taorecorder_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_systemsetting.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_systemsetting.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\vp_3.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\vp_3.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\uvv_player_controller.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bd2009bf3b03d8f9df23576b4174bc1bb4d49d7f\\output\\res\\layout\\uvv_player_controller.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myfollowgrery.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_myfollowgrery.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_writerdetails.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_writerdetails.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_gridview.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\adapter_gridview.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_previewvideo.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_previewvideo.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\common_video_view.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\common_video_view.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aboutus.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_aboutus.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_three.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_three.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resetpassword.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_resetpassword.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_three_children.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_three_children.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fullscreen.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\activity_fullscreen.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\view_plvideoview.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\view_plvideoview.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\simple_player_topbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\567d1e1fab881eef801e3e93e2ac7eea6f4928e3\\output\\res\\layout\\simple_player_topbar.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_common_login.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\layout\\fragment_common_login.xml"
+    }
+]

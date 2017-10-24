@@ -1,0 +1,558 @@
+[
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_strecorder_timeline_clip_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\aliwx_sv_strecorder_timeline_clip_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_gray_bg.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\corners_gray_bg.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorde_oktext_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\taorecorde_oktext_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\discovery_tab_p.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\discovery_tab_p.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\title_gradient_bg.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\title_gradient_bg.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\simple_player_progress_horizontal_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\567d1e1fab881eef801e3e93e2ac7eea6f4928e3\\output\\res\\drawable\\simple_player_progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\record_next_seletor.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\record_next_seletor.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\record_controller_seletor.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\record_controller_seletor.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\weibosdk_common_shadow_top.9.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\weibosdk_common_shadow_top.9.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\retry_btn_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\retry_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\send_topic_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\send_topic_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\writercenter_tab_text_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\writercenter_tab_text_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\uvv_progress_rotate.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bd2009bf3b03d8f9df23576b4174bc1bb4d49d7f\\output\\res\\drawable\\uvv_progress_rotate.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\video_loading.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\video_loading.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_confirm.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\btn_confirm.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_red_bg.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\corners_red_bg.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\simple_player_center_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\567d1e1fab881eef801e3e93e2ac7eea6f4928e3\\output\\res\\drawable\\simple_player_center_bg.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\retry_btn_default.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\retry_btn_default.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\click_video_pause_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\click_video_pause_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_thumb_normal.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\seek_thumb_normal.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_two_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\tab_two_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_common_blue_btn_bg.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\aliwx_sv_common_blue_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_three_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\tab_three_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\po_seekbar.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\po_seekbar.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_black_a10_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\bg_black_a10_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_tab_bg.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\custom_tab_bg.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\discovery_tab_n.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\discovery_tab_n.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_progressbar_color.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\taorecorder_progressbar_color.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\praise_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\praise_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\record_camera_switch_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\record_camera_switch_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_text_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\tab_text_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\person_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\person_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\priview_theme_volumn_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\priview_theme_volumn_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_timeline_clip_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\taorecorder_timeline_clip_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_backward_w.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\ic_backward_w.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_writercenter_tab_n.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\bt_writercenter_tab_n.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\send_comment_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\send_comment_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_rectbg_time.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\taorecorder_rectbg_time.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\red_btn_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\red_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\like_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\like_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\jc_play_normal.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\jc_play_normal.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\click_video_play_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\click_video_play_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_btn_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\gray_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_buttong_bg.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\radio_buttong_bg.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\new_tab_n.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\new_tab_n.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\discovery_tabnew_p.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\discovery_tabnew_p.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\record_delete_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\record_delete_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_recorder_ovalbg_stroke_pause.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\aliwx_sv_recorder_ovalbg_stroke_pause.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\simple_player_btn.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\567d1e1fab881eef801e3e93e2ac7eea6f4928e3\\output\\res\\drawable\\simple_player_btn.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\click_video_error_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\click_video_error_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\biz_video_bar_bg.9.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\biz_video_bar_bg.9.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\new_tab_p.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\new_tab_p.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\greenyuan.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\greenyuan.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_thumb.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_common_dialog_white_bg.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\aliwx_sv_common_dialog_white_bg.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\barcolor.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\barcolor.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_del.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\btn_del.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\cirecle.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\cirecle.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_record_ovalbg.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\taorecorder_record_ovalbg.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\image_selected.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\image_selected.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_recorder_ovalbg_stroke.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\aliwx_sv_recorder_ovalbg_stroke.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pause.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\uvv_star_play_progress_seek.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bd2009bf3b03d8f9df23576b4174bc1bb4d49d7f\\output\\res\\drawable\\uvv_star_play_progress_seek.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\tel_num_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\tel_num_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_back_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\taorecorder_back_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\player_setting_bright_progressbar.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\player_setting_bright_progressbar.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\white_layout_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\white_layout_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_ovalbg_stroke_pause.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\taorecorder_ovalbg_stroke_pause.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\share_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\share_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\discovery_tabnew_n.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\discovery_tabnew_n.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_forward_w.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\ic_forward_w.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_frame.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\rectangle_frame.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_writercenter_tab_p.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\bt_writercenter_tab_p.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_backdelete_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\taorecorder_backdelete_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_strecorder_record_ovalbg.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\aliwx_sv_strecorder_record_ovalbg.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_recorder_record_ovalbg.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\aliwx_sv_recorder_record_ovalbg.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_st_button.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\aliwx_sv_st_button.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_blue_button.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\aliwx_sv_blue_button.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_alert_dialog_item_bg.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\aliwx_sv_alert_dialog_item_bg.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_add_pic.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\btn_add_pic.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_skip.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\splash_skip.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_recorder_timeline_clip_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\aliwx_sv_recorder_timeline_clip_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\priview_orig_volumn_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\priview_orig_volumn_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_discovertab_bg.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\custom_discovertab_bg.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_common_grey_btn_bg.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\aliwx_sv_common_grey_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_four_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\tab_four_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_thumb_press.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\seek_thumb_press.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_ovalbg_stroke.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\taorecorder_ovalbg_stroke.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_moretab_bg.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\custom_moretab_bg.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\video_progress.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\video_progress.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_record_ovalbg_pause.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\taorecorder_record_ovalbg_pause.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_first_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\tab_first_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\aliwx_sv_record_time_border.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\aliwx_sv_record_time_border.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_crop_circle.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\ic_crop_circle.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\biz_video_progressbar.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\biz_video_progressbar.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\bt_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\person_icon_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\person_icon_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\record_camera_flash_led_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\record_camera_flash_led_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\simple_player_control_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\567d1e1fab881eef801e3e93e2ac7eea6f4928e3\\output\\res\\drawable\\simple_player_control_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\setting_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\send_comment_edittext_bg.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\send_comment_edittext_bg.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_background.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\dialog_background.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\priview_edit_tab_selector.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\priview_edit_tab_selector.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\taorecorder_uik_shape_waitview.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\YunWangVideoSDK\\build\\intermediates\\bundles\\default\\res\\drawable\\taorecorder_uik_shape_waitview.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\pic_loadview.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\pic_loadview.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_progress.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\seek_progress.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\btn.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\btn.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\radius_layout_bg.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\radius_layout_bg.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4e76e44e246495abee9bb56c69290393e6c37e98\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable\\retry_btn_press.xml",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable\\retry_btn_press.xml"
+    }
+]

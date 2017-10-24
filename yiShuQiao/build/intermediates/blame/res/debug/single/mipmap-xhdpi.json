@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\video_box_play.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\mipmap-xhdpi\\video_box_play.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\iconfont_enter_32.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\mipmap-xhdpi\\iconfont_enter_32.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\icon_video_pause.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\mipmap-xhdpi\\icon_video_pause.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\icon_video_play.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\mipmap-xhdpi\\icon_video_play.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_fast_rewind_white_24dp.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\mipmap-xhdpi\\ic_fast_rewind_white_24dp.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_fast_forward_white_24dp.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\mipmap-xhdpi\\ic_fast_forward_white_24dp.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\iconfont_exit.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\mipmap-xhdpi\\iconfont_exit.png"
+    }
+]

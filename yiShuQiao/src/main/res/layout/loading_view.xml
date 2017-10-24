@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100dp"
+    android:layout_height="100dp"
+    android:layout_gravity="center"
+    android:background="@drawable/dialog_background"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <!-- 这里的宽高必须设置成跟图片一样大 不然会出现拉伸的情况 -->
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:indeterminate="true"
+        android:indeterminateDrawable="@anim/round_spinner_fade" />
+
+    <TextView
+        android:id="@+id/textview_message"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:padding="10dp"
+        android:singleLine="true"
+        android:text="Loading ..."
+        android:textColor="@android:color/white" />
+
+</LinearLayout>

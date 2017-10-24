@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal" >
+
+    <LinearLayout
+        android:id="@+id/id_pop_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical" >
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/divider_color" />
+
+        <Button
+            android:id="@+id/id_btn_local"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/white_layout_selector"
+            android:paddingBottom="19dip"
+            android:paddingLeft="16dip"
+            android:paddingRight="16dip"
+            android:paddingTop="19dip"
+            android:text="本地视频"
+            android:textColor="@color/text_color1"
+            android:textSize="16dip" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/divider_color" />
+
+        <Button
+            android:id="@+id/id_btn_select"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/white_layout_selector"
+            android:paddingBottom="19dip"
+            android:paddingLeft="16dip"
+            android:paddingRight="16dip"
+            android:paddingTop="19dip"
+            android:text="拍摄"
+            android:textColor="@color/text_color1"
+            android:textSize="16dip" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/divider_color" />
+
+        <Button
+            android:id="@+id/id_btn_cancle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/white_layout_selector"
+            android:paddingBottom="19dip"
+            android:paddingLeft="16dip"
+            android:paddingRight="16dip"
+            android:paddingTop="19dip"
+            android:text="取消"
+            android:textColor="@color/text_color1"
+            android:textSize="16dip" />
+    </LinearLayout>
+
+</RelativeLayout>

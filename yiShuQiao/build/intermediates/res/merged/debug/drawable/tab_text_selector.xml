@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" android:constantSize="true">
+
+    <!-- Pressed -->
+    <item android:color="@color/tab_text_color_ch" android:state_checked="true" />
+
+    <item android:color="@color/tab_text_color_n" android:state_pressed="true" />
+
+    <!-- No states -->
+    <item android:color="@color/tab_text_color_n" />
+
+</selector>

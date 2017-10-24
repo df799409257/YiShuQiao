@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FB4748"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical" >
+
+        <include
+            android:id="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            layout="@layout/titlelayout" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/default_layout_color"
+            android:orientation="vertical" >
+
+            <ScrollView
+                android:id="@+id/scrollView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="none" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:orientation="vertical" >
+
+                    <RelativeLayout
+                        android:id="@+id/modifyAvatarBtn"
+                        android:layout_width="match_parent"
+                        android:layout_height="54dip"
+                        android:paddingLeft="16dip"
+                        android:paddingRight="16dip" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:layout_centerVertical="true"
+                            android:text="头像"
+                            android:textColor="@color/text_color1"
+                            android:textSize="18sp" />
+
+                        <com.yishuqiao.view.RoundImageView
+                            android:id="@+id/avatar"
+                            android:layout_width="46dp"
+                            android:layout_height="46dp"
+                            android:layout_centerVertical="true"
+                            android:layout_marginRight="11dip"
+                            android:layout_toLeftOf="@+id/arrowIv1"
+                            android:background="@drawable/default_user_icon"
+                            android:scaleType="centerCrop" />
+
+                        <ImageView
+                            android:id="@+id/arrowIv1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:scaleType="fitCenter"
+                            android:src="@drawable/arrow" />
+                    </RelativeLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:layout_marginLeft="16dip"
+                        android:layout_marginRight="16dip"
+                        android:background="@color/divider_color" />
+
+                    <!-- 昵称 -->
+
+                    <LinearLayout
+                        android:id="@+id/modifyNickNameBtn"
+                        android:layout_width="match_parent"
+                        android:layout_height="54dip"
+                        android:paddingLeft="16dip"
+                        android:paddingRight="16dip" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:text="昵称"
+                            android:textColor="@color/text_color1"
+                            android:textSize="18sp" />
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" >
+
+                            <TextView
+                                android:id="@+id/nickNameTv"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_marginRight="11dip"
+                                android:layout_toLeftOf="@+id/arrowIv2"
+                                android:paddingLeft="10dp"
+                                android:singleLine="true"
+                                android:textColor="@color/text_color2"
+                                android:textSize="18sp" />
+
+                            <ImageView
+                                android:id="@+id/arrowIv2"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentRight="true"
+                                android:layout_centerVertical="true"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/arrow" />
+                        </RelativeLayout>
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginRight="16dp"
+                        android:background="@color/divider_color" />
+                    <!-- 性别 -->
+
+                    <RelativeLayout
+                        android:id="@+id/modifyGenderBtn"
+                        android:layout_width="match_parent"
+                        android:layout_height="54dip"
+                        android:paddingLeft="16dip"
+                        android:paddingRight="16dip" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:text="性别"
+                            android:textColor="@color/text_color1"
+                            android:textSize="18sp" />
+
+                        <TextView
+                            android:id="@+id/genderTv"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginRight="11dip"
+                            android:layout_toLeftOf="@+id/arrowIv3"
+                            android:textColor="@color/text_color2"
+                            android:textSize="18sp" />
+
+                        <ImageView
+                            android:id="@+id/arrowIv3"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:scaleType="fitCenter"
+                            android:src="@drawable/arrow" />
+                    </RelativeLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="10dp"
+                        android:background="@color/divider_color" />
+
+                    <!-- 修改手机号 -->
+
+                    <LinearLayout
+                        android:id="@+id/modifyPhonesBtn"
+                        android:layout_width="match_parent"
+                        android:layout_height="54dip"
+                        android:paddingLeft="16dip"
+                        android:paddingRight="16dip" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:text="修改手机号"
+                            android:textColor="@color/text_color1"
+                            android:textSize="18sp" />
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" >
+
+                            <TextView
+                                android:id="@+id/phoneNumTv"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_marginRight="11dip"
+                                android:layout_toLeftOf="@+id/arrowIv5"
+                                android:paddingLeft="10dp"
+                                android:singleLine="true"
+                                android:text=""
+                                android:textColor="@color/text_color2"
+                                android:textSize="18sp" />
+
+                            <ImageView
+                                android:id="@+id/arrowIv5"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentRight="true"
+                                android:layout_centerVertical="true"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/arrow" />
+                        </RelativeLayout>
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginRight="16dp"
+                        android:background="@color/divider_color" />
+
+                    <LinearLayout
+                        android:id="@+id/modifyPassword"
+                        android:layout_width="match_parent"
+                        android:layout_height="54dip"
+                        android:paddingLeft="16dip"
+                        android:paddingRight="16dip" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:text="修改密码"
+                            android:textColor="@color/text_color1"
+                            android:textSize="18sp" />
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" >
+
+                            <TextView
+                                android:id="@+id/passwordNumTv"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_marginRight="11dip"
+                                android:layout_toLeftOf="@+id/arrowIv6"
+                                android:paddingLeft="10dp"
+                                android:singleLine="true"
+                                android:textColor="@color/text_color2"
+                                android:textSize="12sp"
+                                android:visibility="gone" />
+
+                            <ImageView
+                                android:id="@+id/arrowIv6"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentRight="true"
+                                android:layout_centerVertical="true"
+                                android:scaleType="fitCenter"
+                                android:src="@drawable/arrow" />
+                        </RelativeLayout>
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginRight="16dp"
+                        android:background="@color/divider_color" />
+                </LinearLayout>
+            </ScrollView>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

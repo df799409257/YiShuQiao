@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\video_focus.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\video_focus.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\video_loading_icon.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\video_loading_icon.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\preview_music_theme_disable.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\preview_music_theme_disable.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_camera_flash_led_off_disable.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_camera_flash_led_off_disable.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\like_n.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\like_n.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_camera_flash_led_off_pressed.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_camera_flash_led_off_pressed.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\no_search_icon.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\no_search_icon.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\enlarge_video.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\enlarge_video.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\preview_music_original_disable.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\preview_music_original_disable.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tabbar_compose_background_icon_close.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\tabbar_compose_background_icon_close.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play_big.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\play_big.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tabbar_compose_lbs.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\tabbar_compose_lbs.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\favorite_icon_p.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\favorite_icon_p.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_delete_check_press.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_delete_check_press.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_contry_press.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\button_contry_press.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\new_play_video.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\new_play_video.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_camera_switch_pressed.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_camera_switch_pressed.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\biz_video_expand.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\biz_video_expand.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gallery_ch.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\gallery_ch.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\like_p.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\like_p.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uploader_dialog_bg.9.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\uploader_dialog_bg.9.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\video_edit_tab_split_line.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\video_edit_tab_split_line.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_text_left.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\title_text_left.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\biz_video_progress_thumb.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\biz_video_progress_thumb.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\comment.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\comment.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_delete.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_text_right.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\title_text_right.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tabbar_compose_more.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\tabbar_compose_more.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\priview_orig_volumn_open.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\priview_orig_volumn_open.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_camera_flash_led_on_disable.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_camera_flash_led_on_disable.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\favorite_icon_n.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\favorite_icon_n.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_star_zoom_in.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bd2009bf3b03d8f9df23576b4174bc1bb4d49d7f\\output\\res\\drawable-xhdpi\\uvv_star_zoom_in.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\favorited_icon.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\favorited_icon.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_back_btn.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bd2009bf3b03d8f9df23576b4174bc1bb4d49d7f\\output\\res\\drawable-xhdpi\\uvv_back_btn.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\biz_video_play.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\biz_video_play.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\focus_bg.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\focus_bg.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tabbar_compose_camera.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\tabbar_compose_camera.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\shrink_video.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\shrink_video.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_camera_flash_led_off_normal.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_camera_flash_led_off_normal.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\preview_music_bg.9.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\preview_music_bg.9.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_on_error.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bd2009bf3b03d8f9df23576b4174bc1bb4d49d7f\\output\\res\\drawable-xhdpi\\uvv_on_error.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_play_vb_bg.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bd2009bf3b03d8f9df23576b4174bc1bb4d49d7f\\output\\res\\drawable-xhdpi\\uvv_play_vb_bg.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_common_ic_loading_icon.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bd2009bf3b03d8f9df23576b4174bc1bb4d49d7f\\output\\res\\drawable-xhdpi\\uvv_common_ic_loading_icon.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_delete_normal.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_delete_normal.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\new_play_video_press.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\new_play_video_press.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\priview_theme_volumn_open.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\priview_theme_volumn_open.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\news_n.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\news_n.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\priview_theme_volumn_close.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\priview_theme_volumn_close.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_camera_flash_led_on_pressed.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_camera_flash_led_on_pressed.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_contry_nonorl.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\button_contry_nonorl.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_itv_player_play.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bd2009bf3b03d8f9df23576b4174bc1bb4d49d7f\\output\\res\\drawable-xhdpi\\uvv_itv_player_play.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\new_pause_video.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\new_pause_video.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_camera_flash_led_on_normal.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_camera_flash_led_on_normal.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\video_ch.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\video_ch.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\share_icon_p.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\share_icon_p.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_theme_square_selected.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_theme_square_selected.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gallery_n.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\gallery_n.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\havenocomment.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\havenocomment.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\preview_music_theme.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\preview_music_theme.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\new_play_error_press.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\new_play_error_press.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\video_edit_tab_selected_bg.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\video_edit_tab_selected_bg.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_cancel_normal.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_cancel_normal.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\biz_video_pause.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\biz_video_pause.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tabbar_compose_review.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\tabbar_compose_review.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_player_player_btn.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bd2009bf3b03d8f9df23576b4174bc1bb4d49d7f\\output\\res\\drawable-xhdpi\\uvv_player_player_btn.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tabbar_compose_photo.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\tabbar_compose_photo.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\biz_video_shrink.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\biz_video_shrink.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_volume_btn.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bd2009bf3b03d8f9df23576b4174bc1bb4d49d7f\\output\\res\\drawable-xhdpi\\uvv_volume_btn.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\network_failed_icon.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\network_failed_icon.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\discovery_n.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\discovery_n.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_theme_selected.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_theme_selected.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_back.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_back.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\discovery_ch.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\discovery_ch.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\new_play_error.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\new_play_error.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\share_icon_n.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\share_icon_n.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_camera_switch_disable.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_camera_switch_disable.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tabbar_compose_background_icon_add.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\tabbar_compose_background_icon_add.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\priview_orig_volumn_close.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\priview_orig_volumn_close.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_seek_dot.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bd2009bf3b03d8f9df23576b4174bc1bb4d49d7f\\output\\res\\drawable-xhdpi\\uvv_seek_dot.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_play_vb_bg_progress.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bd2009bf3b03d8f9df23576b4174bc1bb4d49d7f\\output\\res\\drawable-xhdpi\\uvv_play_vb_bg_progress.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_next_press.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_next_press.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_camera_switch_normal.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_camera_switch_normal.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_next_normal.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_next_normal.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\search_icon.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\search_icon.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_player_scale_btn.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bd2009bf3b03d8f9df23576b4174bc1bb4d49d7f\\output\\res\\drawable-xhdpi\\uvv_player_scale_btn.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\toast_tip_bg.9.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\toast_tip_bg.9.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\entry.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\entry.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_cancel_press.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_cancel_press.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tabbar_compose_idea.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\tabbar_compose_idea.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\new_pause_video_press.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\new_pause_video_press.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\news_ch.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\news_ch.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_delete_check_normal.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_delete_check_normal.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\record_delete_press.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\record_delete_press.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\see.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\see.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\preview_music_original.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\preview_music_original.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uvv_stop_btn.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bd2009bf3b03d8f9df23576b4174bc1bb4d49d7f\\output\\res\\drawable-xhdpi\\uvv_stop_btn.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\video_n.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\video_n.png"
+    },
+    {
+        "merged": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\liked.png",
+        "source": "D:\\MyRepository\\YiShuQiao\\yiShuQiao\\src\\main\\res\\drawable-xhdpi\\liked.png"
+    }
+]

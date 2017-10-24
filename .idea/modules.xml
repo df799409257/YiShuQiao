@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YiShuQiao.iml" filepath="$PROJECT_DIR$/YiShuQiao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YunWangVideoSDK/YunWangVideoSDK.iml" filepath="$PROJECT_DIR$/YunWangVideoSDK/YunWangVideoSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yiShuQiao/yiShuQiao.iml" filepath="$PROJECT_DIR$/yiShuQiao/yiShuQiao.iml" />
+    </modules>
+  </component>
+</project>

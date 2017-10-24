@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FB4748"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/titlelayout" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="true"
+            android:scrollbars="@null" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:id="@+id/coverPic"
+                    android:layout_width="match_parent"
+                    android:layout_height="210dp"
+                    android:background="@color/default_img_bg_color"
+                    android:scaleType="centerCrop" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/tab_height"
+                    android:orientation="horizontal" >
+
+                    <RadioGroup
+                        android:id="@+id/rg_group"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#FFF"
+                        android:gravity="center"
+                        android:orientation="horizontal" >
+
+                        <RadioButton
+                            android:id="@+id/rb_work"
+                            style="@style/bt_tab_style"
+                            android:checked="true"
+                            android:text="作品"
+                            android:textSize="16dp" />
+
+                        <RadioButton
+                            android:id="@+id/rb_resume"
+                            style="@style/bt_tab_style"
+                            android:text="简历" />
+
+                        <RadioButton
+                            android:id="@+id/rb_comment"
+                            style="@style/bt_tab_style"
+                            android:text="评论" />
+
+                        <RadioButton
+                            android:id="@+id/rb_album"
+                            style="@style/bt_tab_style"
+                            android:text="相册" />
+
+                        <RadioButton
+                            android:id="@+id/rb_activity"
+                            style="@style/bt_tab_style"
+                            android:text="活动" />
+                    </RadioGroup>
+                </LinearLayout>
+
+                <FrameLayout
+                    android:id="@+id/contenter"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="#FFF" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/divider_color" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:background="@color/white" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/favorite_icon"
+                android:layout_width="21dp"
+                android:layout_height="21dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/like_selector" />
+
+            <TextView
+                android:id="@+id/share_icon"
+                android:layout_width="21dp"
+                android:layout_height="21dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/share_selector" />
+
+            <TextView
+                android:id="@+id/praise_icon"
+                android:layout_width="21dp"
+                android:layout_height="21dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/praise_selector" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="160dp"
+            android:layout_height="35dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/tel_num_selector"
+            android:gravity="center"
+            android:onClick="callCustomService"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="18dp"
+                android:layout_height="20dp"
+                android:background="@drawable/tel_num_icon" />
+
+            <TextView
+                android:id="@+id/tv_call"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:text="@string/tel_num"
+                android:textColor="@color/white"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

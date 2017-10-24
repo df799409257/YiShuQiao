@@ -1,0 +1,91 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    tools:context="com.yishuqiao.activity.HomeActivity" >
+
+    <include
+        android:id="@+id/in_include"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/titlebar" />
+
+
+    <RelativeLayout
+        android:id="@+id/re_net"
+        android:background="#FF8247"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:text="网络不给力，请检查网络设置" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/title_text_right" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/contenter"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#FFF" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#BFBFBF" />
+
+    <RadioGroup
+        android:id="@+id/rg_group"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#FFF"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/rb_discover"
+            style="@style/Bottom_Tab_Style"
+            android:checked="true"
+            android:drawableTop="@drawable/tab_two_selector"
+            android:text="发现" />
+
+        <RadioButton
+            android:id="@+id/rb_information"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/tab_first_selector"
+            android:text="资讯" />
+
+        <RadioButton
+            android:id="@+id/rb_video"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/tab_three_selector"
+            android:text="视频" />
+
+        <RadioButton
+            android:id="@+id/rb_gallery"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/tab_four_selector"
+            android:text="艺苑" />
+    </RadioGroup>
+
+</LinearLayout>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\MyRepository\YiShuQiao\YunWangVideoSDK\src\main\assets"/><source path="D:\MyRepository\YiShuQiao\YunWangVideoSDK\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\MyRepository\YiShuQiao\YunWangVideoSDK\src\release\assets"/></dataSet></merger>
